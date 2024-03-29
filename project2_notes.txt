@@ -1,0 +1,39 @@
+
+quiz #4 review
+Files are stored in secondary memory
+To read a file one line at a time: 
+For line in file:
+*rstrip(): removes trailing characters
+ link: https://docs.google.com/document/d/18t9BQzS4Wkcu_wGyVZzGd29GWPPG6YAWcyL3qhA2vpw/edit
+ tags: #files #readingfiles
+created 2024-03-29 16:25:59.931842 EDT
+
+quiz #6 review
+Internet Protocol (IP): set of rules governing how data is sent over the internet
+A blank lines separates HTTP headers from the body of the HTTP document
+TCP port numbers identify the process for which the data is used
+Open sockets allow clients to connect to your computer on a port, then you accept the connection
+Important aspect of Application Layer protocols; does the client or server talk first?
+Parts of URL:
+https:// = protocol
+google.co = domain
+document
+ link: https://docs.google.com/document/d/18t9BQzS4Wkcu_wGyVZzGd29GWPPG6YAWcyL3qhA2vpw/edit
+ tags: #IP #TCP
+created 2024-03-29 16:25:59.931842 EDT
+
+quiz #7 review
+2. HTTP: primary protocol for communicating between web browsers and servers
+3. urllib: used for retrieving web pages and images (URL = Uniform Resource Locator)
+6. XML = Extensible Markup Language, provides rules to define data and used by web services to exchange information
+12. urllib .read(): reads binary files
+15. JSON = JavaScript Object Notation, exchanges data between web clients and servers
+16. API (Application Programming Interface) keys: authenticates and authorizes users, developers, or calling programs to an API 
+
+Parts of URL:
+https:// = protocol
+google.co = domain
+document
+ link: https://docs.google.com/document/d/18t9BQzS4Wkcu_wGyVZzGd29GWPPG6YAWcyL3qhA2vpw/edit
+ tags: #HTTP #API
+created 2024-03-29 16:25:59.931842 EDT
